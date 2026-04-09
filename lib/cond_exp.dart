@@ -16,11 +16,11 @@ void main(){
     print("Hi $name, you are not eligible to vote");
   }
 
-  /// 1. Calculator program using choice
-  /// 2. Find the greatest of 3 nos
-  /// 3. Find the smallest of 3 nos
-  /// 4. Find if the given no is ODD/EVEN
-  /// 5. Find if the given year is LEAP year
-  /// 6. Swap the 2 nos
+  /// 1. Calculator program using choice (solved)
+  /// 2. Find the greatest of 3 nos (solved)
+  /// 3. Find the smallest of 3 nos (do it)
+  /// 4. Find if the given no is ODD/EVEN (solved)
+  /// 5. Find if the given year is LEAP year (solved)
+  /// 6. Swap the 2 nos (do it)
 
 }
