@@ -21,14 +21,14 @@ void main(){
   } while(no<50);
 
   /// 1. Check if the given no is PRIME no or not.
-  /// 2. Check if the given no is ARMSTRONG no or not.
+  /// 2. Check if the given no is ARMSTRONG no or not. /// 153 -> 1^3 + 5^3 + 3^3 -> 1 + 125 + 27 -> 153, 370, 371, 1-9
   /// 3. Check if the given no is PERFECT no or not.
   /// 4. Check if the given no is a PERFECT square or not.
-  /// 5. Print the Square of a no.
-  /// 6. Print the SquareRoot of a no.
+  /// 5. Print the Square of a no. ///pow(4, 2.0)
+  /// 6. Print the SquareRoot of a no. ///pow(4, 0.5)
   /// 7. Print the Fibonacci series till a given no. //0,1,1,2,3,5,8,13,21,34..
   /// 8. Print the first n no of Fibonacci series.
-  /// 9. Print the Factorial of a no.
+  /// 9. Print the Factorial of a no. (Recursion) n*n-1
   /// 10. Print the Factor of a no.
 
 
