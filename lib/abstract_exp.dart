@@ -22,12 +22,12 @@ class MyClass implements Operations, NewClass{
 
   @override
   int add(int no1, int no2) {
-
+    return no1+no2;
   }
 
   @override
   int sub(int no1, int no2) {
-
+    return no1-no2;
   }
 }
 
